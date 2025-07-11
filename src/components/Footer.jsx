@@ -56,7 +56,7 @@ export default function Footer() {
       icon: (
         <IconFileCv className="h-full w-full text-neutral-500 dark:text-neutral-300" />
       ),
-      href: "https://drive.google.com/file/d/1-bbXTk_JvFb52z5ONe0JHcJVhMSfNZHm/view?usp=drive_link",
+      href: "https://drive.google.com/file/d/1-bbXTk_JvFb52z5ONe0JHcJVhMSfNZHm/view?usp=sharing",
       target: "_blank", // 👈 add this
     },
   ];

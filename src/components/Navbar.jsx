@@ -116,7 +116,7 @@ export default function Navbar() {
               ))}
               <li>
                 <a
-                  href="https://drive.google.com/file/d/1-bbXTk_JvFb52z5ONe0JHcJVhMSfNZHm/view?usp=drive_link"
+                  href="https://drive.google.com/file/d/1-bbXTk_JvFb52z5ONe0JHcJVhMSfNZHm/view?usp=sharing"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="block text-center px-3 py-2 rounded-full text-white bg-gradient-to-r from-blue-600 to-blue-500 hover:from-blue-500 hover:to-blue-400 transition-all text-sm shadow-md"

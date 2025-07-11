@@ -1,13 +1,105 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# 🚀 Akshay Kumar - Developer Portfolio
 
-Currently, two official plugins are available:
+Welcome to my personal portfolio website built with **React**, **Vite**, and **Tailwind CSS**.  
+It highlights my **projects**, **skills**, **experience**, **certifications**, and offers a way to **get in touch** with me.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 📌 Live Demo
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-# portfolio
+🌐 [Click here to view my live portfolio](https://your-deployment-link.vercel.app)
+
+---
+
+## 🔧 Tech Stack
+
+- ⚛️ **React** – Component-based frontend
+- ⚡ **Vite** – Fast build tool and dev server
+- 💨 **Tailwind CSS** – Utility-first styling
+- 🎞️ **Framer Motion** – Animations and transitions
+- 🌙 **Dark Mode** – Theme toggle support
+- 📧 **Formspree** – Contact form handling
+- 🎯 **Floating Dock** – Interactive icon bar for social links
+
+---
+
+## 📁 Project Structure
+
+```
+
+portfolio/
+├── public/
+│   └── favicon.png
+├── src/
+│   ├── components/       # Reusable UI components
+│   ├── sections/         # Page sections like Hero, About, etc.
+│   ├── assets/           # Images, icons, etc.
+│   ├── App.jsx
+│   └── main.jsx
+├── index.html
+├── tailwind.config.js
+├── vite.config.js
+└── README.md
+
+````
+
+---
+
+## 🚀 Getting Started
+
+To run the project locally:
+
+```bash
+git clone https://github.com/akshaysakinam/portfolio.git
+cd portfolio
+npm install
+npm run dev
+````
+
+Open [`http://localhost:5173`](http://localhost:5173) in your browser to see it live.
+
+---
+
+## 📄 Features
+
+* Fully responsive design
+* Animated navbar and section transitions
+* Floating dock that appears on scroll
+* Social media & resume links
+* Downloadable resume button
+* Dark/light mode toggle
+* Clean and elegant layout
+
+---
+
+## 📬 Contact
+
+Feel free to reach out via any of these:
+
+* 🔗 [LinkedIn](https://linkedin.com/in/akshay-sakinam-516502255)
+* 🐙 [GitHub](https://github.com/akshaysakinam)
+* 📨 [Resume](https://drive.google.com/file/d/1-bbXTk_JvFb52z5ONe0JHcJVhMSfNZHm/view)
+* 🖊️ [Email Form](#contact) (via Formspree)
+
+---
+
+## ©️ License
+
+This project is open-source and available under the [MIT License](LICENSE).
+
+---
+
+## ✨ Acknowledgements
+
+* [Aceternity UI](https://ui.aceternity.com) – for Floating Dock inspiration
+* [Formspree](https://formspree.io) – for backend-less form handling
+* [HeroIcons](https://heroicons.com) / [Tabler Icons](https://tabler.io/icons) – for iconography
+
+---
+
+### ⭐ Thank you for visiting!
+
+If you like this project, feel free to ⭐️ star the repo and share it!
+
+```
